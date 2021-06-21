@@ -4,8 +4,8 @@ using namespace std;
 
 int main(void)
 {
-	cout << Hello Word << endl;
-	cout << Hello github << endl;
+	cout << Hello World << endl;
+	cout << Hello GitHub << endl;
 
 	return 0;
 }
